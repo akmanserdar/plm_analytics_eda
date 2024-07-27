@@ -22,12 +22,12 @@ The correlation analysis shows significant positive correlation between Complexi
 ## Visualizations
 The repository includes various visualizations to support the insights gained from the EDA:
 
-**Histograms and KDE Plots:** Show the distribution of Approval_Days.
-**Boxplots:** Highlight outliers and the spread of Approval_Days.
-**Count Plots:** Display the frequency of Change_Type, Department, and Requested_By.
-**Scatter Plots:** Illustrate the relationship between Complexity and Approval_Days.
-**Heatmaps:** Show correlations between numerical variables.
-**Violin Plots:** Provide a detailed view of the distribution of Complexity by Change_Type.
+**Histograms and KDE Plots:** Show the distribution of Approval_Days.  
+**Boxplots:** Highlight outliers and the spread of Approval_Days.  
+**Count Plots:** Display the frequency of Change_Type, Department, and Requested_By.  
+**Scatter Plots:** Illustrate the relationship between Complexity and Approval_Days.  
+**Heatmaps:** Show correlations between numerical variables.  
+**Violin Plots:** Provide a detailed view of the distribution of Complexity by Change_Type.  
 
 ## Conclusion
 The EDA provides valuable insights into the *PLM Analytics* process, identifying areas for potential improvement and efficiency gains. By understanding the patterns and relationships within the data, stakeholders can make informed decisions to optimize the approval workflow
