@@ -7,7 +7,7 @@ The analysis revealed that most change requests are approved within a certain ra
 ### Frequency of Change Types
 Minor changes are the most frequent, indicating that most change requests are relatively simple.  
 
-# Department Workload
+#### Department Workload
 The Engineering and Quality departments handle the majority of change requests, suggesting a potential need for resource allocation to manage workloads.  
 
 # User Requests
