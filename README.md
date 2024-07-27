@@ -1,22 +1,22 @@
 ## Description
-This project involves Exploratory Data Analysis (EDA) on Change Requests (CR) approval processes in Product Lifecycle Management (PLM). The goal of this analysis is to get insights and patterns in the data to improve the efficiency and effectiveness of the approval process.
+This project involves Exploratory Data Analysis (EDA) about Product Lifecycle Management (PLM) Analytics. Change Requests (CR) are examined over approval processes. The goal of this analysis is to get insights and patterns in the data to improve the efficiency and effectiveness of the PLM approval process.
 
 ## EDA Insights
-### Distribution of Approval Days
+#### Distribution of Approval Days
 The analysis revealed that most change requests are approved within a certain range, with a few outliers experiencing significantly longer approval times.  
-### Frequency of Change Types
+#### Frequency of Change Types
 Minor changes are the most frequent, indicating that most change requests are relatively simple.  
 
 #### Department Workload
 The Engineering and Quality departments handle the majority of change requests, suggesting a potential need for resource allocation to manage workloads.  
 
-# User Requests
+#### User Requests
 Certain users submit more change requests than others, indicating areas where additional support or training might be beneficial.  
 
-# Relationship Between Complexity and Approval Days
+#### Relationship Between Complexity and Approval Days
 A positive correlation exists between the complexity of a change request and the time taken for approval, highlighting the impact of request complexity on the approval process.  
 
-# Correlation Between Variables
+#### Correlation Between Variables
 The correlation analysis shows significant positive correlation between Complexity and Approval_Days, suggesting that simplifying complex requests could lead to faster approvals.
 
 ## Visualizations
