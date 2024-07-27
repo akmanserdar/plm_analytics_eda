@@ -1,7 +1,7 @@
 ## Description
-This project involves Exploratory Data Analysis (EDA) about Product Lifecycle Management (PLM) Analytics. Change Requests (CR) are examined over approval processes. The goal of this analysis is to get insights and patterns in the data to improve the efficiency and effectiveness of the PLM approval process.
+This project involves Advanced Functional Exploratory Data Analysis (EDA) about Product Lifecycle Management (PLM) Analytics. Change Requests (CR) are examined over approval processes. The goal of this analysis is to get insights and patterns in the data to improve the efficiency and effectiveness of the PLM approval process.
 
-## EDA Insights
+## Exploratory Data Analysis Insights
 #### Distribution of Approval Days
 The analysis revealed that most change requests are approved within a certain range, with a few outliers experiencing significantly longer approval times.  
 #### Frequency of Change Types
